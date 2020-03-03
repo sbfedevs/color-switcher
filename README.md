@@ -11,6 +11,7 @@ Your users should be able to:
   - Click through to the border countries on the detail page
   - Unit test your work
   - Toggle the color scheme between light and dark mode (optional)
+  - Have a live demo site (optional)
   
 Restrictions: 
   - Vue is the only javascript framework accepted for this project. You have complete control over which packages you use to do things like make HTTP requests or style your project.
